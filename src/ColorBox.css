@@ -1,0 +1,13 @@
+.boxContainer{
+    display: flex;
+    flex-direction: row;
+}
+.boxContainerUpper{
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    transition: background-color .3s;
+    width: 100px;
+    height: 100px;
+}
